@@ -19,7 +19,7 @@ pip install -r yolov5/requirements.txt
 ### With image
 ![alt text](https://github.com/panthibivek/Ring_Detection/blob/master/test_img.jpg?raw=true)
 ### With webcam
-![alt text](https://github.com/panthibivek/Ring_Detection/blob/master/demo_video.mp4?raw=true)
+https://drive.google.com/file/d/1oM8kOnQE9u-03H4Vlgr723bSFe5ecNfX/view?usp=sharing
 
 ###To use the detector with image size 640 and confidence 0.6 in webcam
 ```shell
