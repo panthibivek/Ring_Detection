@@ -1,5 +1,5 @@
 # 
-Please note that python3 is a requirement to run the detector.
+Please note that git and python3 are requirements to install and run the detector.
 ## Setup
 ### 1. Clone the repository
 ```shell
