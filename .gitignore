@@ -1,0 +1,4 @@
+*.bmp
+data/*
+extract_data/new_training_video/*
+extract_data/run1/*

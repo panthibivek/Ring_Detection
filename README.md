@@ -21,9 +21,9 @@ pip install -r yolov5/requirements.txt
 ### With webcam
 https://drive.google.com/file/d/1oM8kOnQE9u-03H4Vlgr723bSFe5ecNfX/view?usp=sharing
 
-### To use the detector with image size 640 and confidence 0.6 in webcam
+### To use the detector with image size 640 and confidence 0.4 in webcam
 ```shell
-python3 yolov5/detect.py --weights yolov5/runs/train/exp/weights/best.pt --img 640 --conf 0.4 --source 0
+python3 yolov5/detect.py --weights yolov5/runs/train/exp2/weights/best.pt --img 640 --conf 0.4 --source 0
 ```
 
 # Theory
